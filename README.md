@@ -30,7 +30,7 @@ QuickCare is a **healthcare platform** that enables users to discover doctors, b
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/QuickCare.git
+git clone https://github.com/ByteEmpire/QuickCare.git
 ```
 
 2. Install backend dependencies:
